@@ -39,21 +39,3 @@ router.delete("/:id", (req, res) => {
 });
 
 module.exports = router;
-
-// router.delete("/:id", (req, res) => {
-//   const { id } = req.params;
-//   const deleted = notesArr.find((notesArr) => notesArr.id == id);
-//   if (deleted) {
-//     notesArr = notesArr.filter((notesArr) => notesArr.id !== id);
-//     fs.writeFile("./db/db.json"),
-//       JSON.stringify(notesArr),
-//       "utf-8",
-//       (err) => {
-//         if (err) throw err;
-//         console.log("Saved");
-//         res.status(200).json(notesArr);
-//       };
-//   } else {
-//     res.status(404).json({ message: "Not found" });
-//   }
-// });
