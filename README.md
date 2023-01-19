@@ -16,9 +16,7 @@ To use the note taker application the user can navigate to the Heroku page and e
 
 [Link]https://note-taker-trudman.herokuapp.com/
 
-![Screenshot](assets/images/Screenshot%202023-01-19%20at%205.09.26%20PM.png)
-
-![Screenshot](assets/images/Screenshot%202023-01-19%20at%205.10.35%20PM.png)
+![Screenshot](/Assets/images/Screenshot%202023-01-19%20at%205.21.43%20PM.png)
 
 ## Credit
 
